@@ -1,0 +1,19 @@
+Metadata-Version: 1.2
+Name: GEstimator
+Version: 2.5
+Summary: GEstimator is a simple civil estimation software written in Python and GTK+
+Home-page: https://github.com/manuvarkey/GEstimator
+Author: Manu Varkey
+Author-email: manuvarkey@gmail.com
+Maintainer: Manu Varkey
+Maintainer-email: manuvarkey@gmail.com
+License: GPL-3.0
+Description: GEstimator is a simple civil estimation software written in Python and GTK+. GEstimator can prepare estimates along with rate analysis and supports multiple databases.
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python
+Classifier: Topic :: Office/Business

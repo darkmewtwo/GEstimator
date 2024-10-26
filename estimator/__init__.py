@@ -1357,7 +1357,7 @@ class MainWindow:
         
         if id == 0:
             # Start splash screen
-            self.splash = misc.SplashScreen(self.initialise, misc.abs_path("interface", "splash.png"))
+            self.splash = misc.SplashScreen(self.initialise, misc.abs_path("interface", "SE.png"))
         else:
             self.initialise()
         
